@@ -1,4 +1,4 @@
-package Java_Assignment;
+package Lab1;
 
 import java.util.Scanner;
 
@@ -14,7 +14,8 @@ public class Assignment2{
 
         int ch= sc.nextInt();
 
-        Excercize1 ex= new Excercize1();
+        Assignment2 ex= new Assignment2();
+
     switch (ch)
     {
         case 1:

@@ -1,4 +1,4 @@
-package core_java;
+package Lab1;
 class Assignment8 {
     public static void main(String[] args) {
         System.out.println(powerOf2(1));

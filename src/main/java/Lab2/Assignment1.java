@@ -1,5 +1,5 @@
 /* Create a method which accepts an array of integer elements and return the second smallest element in the array*/
-package Day3;
+package Lab2;
 
 public class  Assignment1 {
     public static int getSecondSmallest(int[] a, int total){

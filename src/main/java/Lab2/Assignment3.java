@@ -1,5 +1,5 @@
 /*Exercise 3: Create a method which accepts an integer array, reverse the numbers in the array and returns the resulting array in sorted order*/
-package Day3;
+package Lab2;
 import java.util.Scanner;
 public class  Assignment3 {
 

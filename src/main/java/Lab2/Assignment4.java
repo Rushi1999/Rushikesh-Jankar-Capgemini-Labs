@@ -1,4 +1,4 @@
-package Day3;
+package Lab2;
 
 public class  Assignment4{
     public static int modifyArray (int arr[], int n){

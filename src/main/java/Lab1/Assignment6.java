@@ -1,4 +1,4 @@
-package core_java;
+package Lab1;
 
 class Assignment6{
 
